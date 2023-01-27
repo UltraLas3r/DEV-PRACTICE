@@ -18,8 +18,6 @@ const mikeWorkBackpack = {
 };
 
 
-
-
 const varDragon ={
 variablePractice: 33,
 setNewVariable:function(updateVar){
